@@ -1,0 +1,19 @@
+Point Management System
+
+Class Merchant
+  merchantID
+  merchantName
+  merchantCategoryID
+  
+Class Branch
+  merchantID
+  branchName
+  branchOwnerID
+  branchJoined
+  
+Member
+  memberID
+  memberName
+  memberBirth
+  memberAddr
+  point
